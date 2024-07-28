@@ -9,7 +9,7 @@
     android:orientation="vertical"
     android:paddingVertical="30dp"
     android:paddingHorizontal="20dp"
-    android:background="#161617"
+    android:background="#000000"
     >
 
     <TextView
@@ -110,7 +110,7 @@
         android:id="@+id/btnLogin"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Log In"
+        android:text="Sign up"
         android:textStyle="bold"
         android:textColor="@color/black"
         android:backgroundTint="#fee83f"
