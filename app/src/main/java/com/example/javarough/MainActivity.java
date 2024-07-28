@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity {
         });
         btnlogin = findViewById(R.id.btnLogin);
         btnlogin.setOnClickListener(v-> {
-            btnlogin.animate();
+
         });
     }
 }
