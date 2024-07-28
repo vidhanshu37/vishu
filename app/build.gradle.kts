@@ -43,4 +43,7 @@ dependencies {
 
     implementation ("com.github.skydoves:elasticviews:2.1.0")
     implementation ("com.nightonke:wowoviewpager:2.0.0")
+
+    implementation ("de.hdodenhof:circleimageview:3.1.0")
+
 }
